@@ -20,6 +20,3 @@ A dynamic web application built with Streamlit that provides real-time stock mar
 - Plotly
 - Pandas
 
-## Installation and Setup
-1. Clone the repository
-2. Install required packages:
